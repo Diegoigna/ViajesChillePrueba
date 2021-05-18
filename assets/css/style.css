@@ -1,0 +1,35 @@
+
+.carousel-inner{object-fit: scale-down;
+    width: 100%;
+    }
+    
+    body {
+        background-color: black;
+    color: white;
+        font-family: 'Raleway', sans-serif;
+        }
+        
+        html{scroll-behavior: smooth;}
+
+        .logotipo{
+            width: 50px;
+        
+        }
+
+      .barra{
+    color: #70caee;
+}
+
+
+
+.card-body{background-color:#70caee ;}
+
+.colorfooter{background-color:#70caee;}
+
+
+
+
+.font{
+    background-color:#70caee ;
+    width: 400px;
+}
